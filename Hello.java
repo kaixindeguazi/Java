@@ -35,5 +35,8 @@ class Person{
 		//可以表示转义字符
 		char c4 = '\t';	
 		System.out.println(c1+"\n"+c2+"\n"+c3+"\n"+str);
+
+		//布尔类型：boolean 只能取true 或 false
+		boolean s1 = true;
 	}
 }
